@@ -1,5 +1,5 @@
 schemaVersion: 2.1.0
-kind: Job
+kind: run
 metadata:
   name: job-pod-failure-policy
 spec:
